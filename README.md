@@ -7,7 +7,7 @@ Manufacturer's documentation is here:
  * https://www.waveshare.com/wiki/2inch_LCD_Module#Libraries_installation
 
 Wiring diagram is here:
- * ![wiring diagram](https://www.waveshare.com/wiki/File:2inch-LCD-Module-3.jpg)
+ * ![wiring diagram](https://www.waveshare.com/w/upload/2/2c/2inch-LCD-Module-3.jpg)
 
 Someday I'll make this container do something more interesting. :-)
 
